@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👨‍💻 Suyash Thombare  <br><br>📊 Data Analytics | 📈 Data Science | 🤖 AI Systems  <br><br>🔎 Turning data into insights.  <br>🧠 Turning insights into intelligent systems.  <br><br>🚀 Focused on building practical AI solutions with real-world impact.
+  Suyash Thombare  <br><br> Data Analytics | Data Science |  AI Systems  <br><br> Turning data into insights.  <br> Turning insights into intelligent systems.  <br><br> Focused on building practical AI solutions with real-world impact.
 
 
 # 💻 Tech Stack:
